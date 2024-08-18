@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Imprima&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Imprima&family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap');
+
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: #9abfcc;
+    color: #013c3d;
+    font-family: Sansita, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
