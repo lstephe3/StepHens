@@ -91,3 +91,22 @@ a {
     padding: 0;
     margin: 0;
 }
+
+.quote {
+    background-color: #6ab6ab;
+    color: #013c3d;
+    font-family: Imprima;
+    font-size: 24px;
+    font-style: italic;
+    padding: 32px 64px 0;
+}
+
+.quoter {
+    background-color: #6ab6ab;
+    color: #013c3d;
+    font-family: Sansita;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: right;
+    padding-right: 86px;
+}
