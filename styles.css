@@ -136,3 +136,54 @@ a {
     text-align: center;
     margin-bottom: 24px;
 }
+
+.container2 {
+    background-color: #6ab6ab;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+}
+
+.box {
+    background-color: #006163;
+    color: #9abfcc;
+    border: none;
+    border-radius: 8px;
+    font-family: Imprima;
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    gap: 24px;
+}
+
+.box-title {
+    font-size: 24px;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+}
+
+.box-text {
+    font-size: 18px;
+    font-weight: 100;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 8px;
+}
+
+button.signup {
+    cursor: pointer;
+    background: #006163;
+    font-weight: 900;
+    border: 2px solid #9abfcc;
+    border-radius: 8px;
+    color: #9abfcc;
+    padding: 8px;
+    width: 150px;
+    height: fit-content;
+}
