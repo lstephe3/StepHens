@@ -73,7 +73,6 @@ a {
     flex-direction: column;
     flex-shrink: 1;
     font-size: 64px;
-    justify-content: center;
     align-items: center;
     text-align: center;
 }
@@ -88,8 +87,12 @@ a {
     font-size: 24px;
     font-weight: lighter;
     text-align: center;
-    padding: 0;
+    padding: 2px;
     margin: 0;
+}
+
+p.gap {
+    height: 24px;
 }
 
 .quote {
