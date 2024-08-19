@@ -132,6 +132,8 @@ p.gap {
 .gallery-image img {
     width: 200px;
     height: auto;
+    border: 3px solid #006163;
+    border-radius: 8px;
 }
 
 .gallery-text {
