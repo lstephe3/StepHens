@@ -108,5 +108,31 @@ a {
     font-size: 20px;
     font-weight: 900;
     text-align: right;
-    padding-right: 86px;
+    padding: 8px 86px 12px;
+}
+
+.gallery-title {
+    font-size: 32px;
+    font-weight: 900;
+    margin-bottom: 32px;
+    padding: 8px 64px;
+    text-align: center;
+}
+
+.container {
+    background-color: #9abfcc;
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.gallery-image img {
+    width: 200px;
+    height: auto;
+}
+
+.gallery-text {
+    max-width: 200px;
+    text-align: center;
+    margin-bottom: 24px;
 }
