@@ -125,6 +125,7 @@ p.gap {
 .container {
     background-color: #9abfcc;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 52px;
 }
